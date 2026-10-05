@@ -1,0 +1,192 @@
+{
+  "updated": "2026-10-05",
+  "company": {
+    "name": "Hospitality Intelligence Hub Ltd",
+    "jurisdiction": "England & Wales",
+    "email": "hospitalityintelligencehub@outlook.com",
+    "phone": "+44 7438 753798",
+    "address": "London, United Kingdom"
+  },
+  "notice": "Draft for the prototype website. These documents must be reviewed by a qualified UK solicitor before the platform processes real customer data.",
+  "documents": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "summary": "What personal data this website collects, why, how long we keep it and your rights under UK GDPR.",
+      "sections": [
+        {
+          "heading": "Who we are",
+          "paragraphs": [
+            "Hospitality Intelligence Hub Ltd (\"we\", \"us\") is the data controller for personal data collected through this website. Contact us about privacy at hospitalityintelligencehub@outlook.com."
+          ]
+        },
+        {
+          "heading": "What we collect and why",
+          "list": [
+            "Contact, pilot and demo requests: your name, business email, venue name, number of locations and message — to respond to your enquiry and assess pilot suitability. Lawful basis: legitimate interests, and steps prior to entering a contract.",
+            "Newsletter: your email address and the date you subscribed — to send our monthly insights. Lawful basis: consent, which you can withdraw at any time.",
+            "Data-rights requests: your name, email and request details — to comply with our legal obligations under UK GDPR. Lawful basis: legal obligation.",
+            "Security logs: a one-way hash of your IP address stored with submissions — to detect spam and abuse. Lawful basis: legitimate interests.",
+            "Demo assistant: the questions you type are answered by a scripted assistant on our server. They are not stored and are not shared with any third party."
+          ]
+        },
+        {
+          "heading": "Platform data (customers only)",
+          "paragraphs": [
+            "When a venue uses the Hospitality Intelligence platform, the venue is the controller of its guests' data and we act as its processor under a Data Processing Agreement. Guest data is minimised and pseudonymised before analysis, and regional benchmarks only use aggregated figures that cannot identify a venue or a guest."
+          ]
+        },
+        {
+          "heading": "How long we keep it",
+          "list": [
+            "Enquiries: 24 months from our last contact with you.",
+            "Newsletter: until you unsubscribe, then a suppression record so we don't email you again.",
+            "Data-rights requests: 6 years, to evidence our compliance."
+          ]
+        },
+        {
+          "heading": "Sharing",
+          "paragraphs": [
+            "We do not sell personal data. We share it only with service providers that host our systems or provide the AI assistant, under contracts that require them to protect it, and where the law requires us to."
+          ]
+        },
+        {
+          "heading": "Your rights",
+          "paragraphs": [
+            "You can ask to access, correct, delete, restrict or move your data, and object to processing based on legitimate interests. Use the \"Your data rights\" form in the footer or email us. We respond within one month. You may also complain to the Information Commissioner's Office (ico.org.uk)."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "summary": "The terms that apply to using this website and the free pilot programme.",
+      "sections": [
+        {
+          "heading": "About these terms",
+          "paragraphs": [
+            "These terms apply to your use of this website. Subscriptions to the paid platform are covered by a separate customer agreement."
+          ]
+        },
+        {
+          "heading": "Prototype and demonstration content",
+          "paragraphs": [
+            "The dashboard, live demo and financial pages use illustrative data for a sample venue. They show how the platform is intended to work and are not results from real customers. Projections are forecasts, not guarantees."
+          ]
+        },
+        {
+          "heading": "Free pilot programme",
+          "list": [
+            "Pilots run for 8 weeks at no charge and either party may end a pilot at any time.",
+            "You must have authority to connect the POS, booking and social accounts you link to the platform.",
+            "Data processed during the pilot is covered by our Data Processing Agreement, and is deleted or returned at the end of the pilot on request."
+          ]
+        },
+        {
+          "heading": "Acceptable use",
+          "paragraphs": [
+            "Do not misuse the website, attempt to gain unauthorised access, submit automated or false requests, or use the AI assistant to generate unlawful content."
+          ]
+        },
+        {
+          "heading": "Liability",
+          "paragraphs": [
+            "Website content is provided for general information. To the extent permitted by law, we are not liable for decisions made solely on the basis of demonstration content. Nothing in these terms limits liability that cannot be limited under English law."
+          ]
+        },
+        {
+          "heading": "Governing law",
+          "paragraphs": [
+            "These terms are governed by the law of England and Wales, and the courts of England and Wales have exclusive jurisdiction."
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "summary": "This website does not use advertising or analytics cookies.",
+      "sections": [
+        {
+          "heading": "Our approach",
+          "paragraphs": [
+            "This website does not set advertising, analytics or tracking cookies, so we don't show a cookie consent banner."
+          ]
+        },
+        {
+          "heading": "Third-party resources",
+          "list": [
+            "Google Fonts (fonts.googleapis.com) supplies the typefaces. Your browser connects to Google to download them, which shares your IP address with Google.",
+            "Chart.js is loaded from cdnjs (Cloudflare) to draw charts."
+          ]
+        },
+        {
+          "heading": "Questions",
+          "paragraphs": [
+            "If we ever add analytics or marketing cookies, we will ask for your consent first and update this page."
+          ]
+        }
+      ]
+    },
+    "dpa": {
+      "title": "Data Processing Agreement (summary)",
+      "summary": "How we process guest data on behalf of venues that use the platform.",
+      "sections": [
+        {
+          "heading": "Roles",
+          "paragraphs": [
+            "The venue is the controller of its guests' personal data. Hospitality Intelligence Hub Ltd is the processor and acts only on the venue's documented instructions, as required by Article 28 UK GDPR."
+          ]
+        },
+        {
+          "heading": "Data processed",
+          "list": [
+            "Reservation records: booking time, party size, source and status (including no-shows).",
+            "POS transactions: bill totals, items and timestamps, linked to bookings where possible.",
+            "Campaign data from the venue's own social accounts, booking links, promo codes and QR codes.",
+            "Reviews and feedback the venue collects or is publicly given."
+          ]
+        },
+        {
+          "heading": "Safeguards",
+          "list": [
+            "Guest identifiers are pseudonymised before analysis.",
+            "Data is encrypted in transit and at rest, and access is limited to named staff.",
+            "Sub-processors (such as cloud hosting) are listed and the venue is notified of changes.",
+            "Personal data breaches are notified to the venue without undue delay.",
+            "At the end of the contract, data is deleted or returned at the venue's choice."
+          ]
+        },
+        {
+          "heading": "Get the full agreement",
+          "paragraphs": [
+            "Pilot and paying customers receive the full DPA before any data is connected. Email us to request a copy."
+          ]
+        }
+      ]
+    },
+    "accessibility": {
+      "title": "Accessibility Statement",
+      "summary": "Our commitment to making this website usable for everyone.",
+      "sections": [
+        {
+          "heading": "Our aim",
+          "paragraphs": [
+            "We aim for this website to meet WCAG 2.2 level AA. It can be navigated with a keyboard, forms have labels, and dialogs can be closed with the Escape key."
+          ]
+        },
+        {
+          "heading": "Known limitations",
+          "list": [
+            "Some charts do not yet have a text alternative showing the same data.",
+            "Some small text in dashboard panels has lower colour contrast than we would like."
+          ]
+        },
+        {
+          "heading": "Feedback",
+          "paragraphs": [
+            "If you have difficulty using any part of this site, email hospitalityintelligencehub@outlook.com and we will provide the information in another format."
+          ]
+        }
+      ]
+    }
+  }
+}
